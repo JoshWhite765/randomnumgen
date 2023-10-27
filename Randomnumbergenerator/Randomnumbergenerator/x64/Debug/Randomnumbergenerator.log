@@ -1,0 +1,3 @@
+﻿  Randomnumbergenerator.cpp
+C:\Users\507066\OneDrive - Bath Spa University\Practise Exercises\Randomnumbergenerator\Randomnumbergenerator\Randomnumbergenerator.cpp(14,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Randomnumbergenerator.vcxproj -> C:\Users\507066\OneDrive - Bath Spa University\Practise Exercises\Randomnumbergenerator\x64\Debug\Randomnumbergenerator.exe
